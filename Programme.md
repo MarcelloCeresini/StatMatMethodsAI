@@ -25,7 +25,7 @@
 4. Elements of probability and statistics.
 
     - Probability and Bayes theorem.
-    - Random variables. Continuous and discrete distributions of random variables. Normal and Poisson distributions. 
+    - Random variables. Continuous and discrete distributions of random variables. Normal and Poisson distributions.
     - Independent and dependent variables. Covariance and correlation.
     - Estimates: Maximum Likelihood and Maximum a Posteriori estimates.
     - Cross entropy and Kullback-Leibler divergence.
